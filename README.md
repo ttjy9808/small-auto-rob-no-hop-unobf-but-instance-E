@@ -422,7 +422,6 @@ for i,v in next, getgc(true) do
                     end
                 end
             end
-char.Humanoid:MoveTo(Vector3.new(1554.35,26.01,1294.45))
 task.wait(1)
 Humanoid.WalkSpeed = 100
 task.wait(0.5)
